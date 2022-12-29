@@ -6,3 +6,10 @@ p.test
 {
     color: crimson;
 }
+
+#but
+{
+    margin-left: 300px;
+    padding: 3px;
+    font-size: large;
+}
