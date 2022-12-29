@@ -1,5 +1,4 @@
 function  the_function()
 {
-    let x=15,y=9; let z =x%y;
-    alert ("result is ="+typeof(z));
+    document.getElementById('nope').innerHTML=<img src="images/finger-fuck-you-cheap-sticker.png" alt="fuck you"/>;
 }
